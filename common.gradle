@@ -1,0 +1,9 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+ext{
+    android = [
+            //
+            module_home   : 5.0,
+            module_task   : 8.3
+    ]
+}
